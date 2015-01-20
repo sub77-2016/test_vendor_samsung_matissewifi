@@ -96,10 +96,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/matissewifi/proprietary/vendor/lib/libqmi_client_qmux.so:system/vendor/lib/libqmi_client_qmux.so \
 	vendor/samsung/matissewifi/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
 	vendor/samsung/matissewifi/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
-    vendor/samsung/matissewifi/proprietary/app/TimeService/TimeService.apk:system/app/TimeService/TimeService.apk \
-    vendor/samsung/matissewifi/proprietary/bin/time_daemon:system/bin/time_daemon \
-    vendor/samsung/matissewifi/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
-    vendor/samsung/matissewifi/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
+	vendor/samsung/matissewifi/proprietary/bin/time_daemon:system/bin/time_daemon \
 	vendor/samsung/matissewifi/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
 	vendor/samsung/matissewifi/proprietary/cameradata/datapattern_420sp.yuv:system/cameradata/datapattern_420sp.yuv \
 	vendor/samsung/matissewifi/proprietary/cameradata/datapattern_front_420sp.yuv:system/cameradata/datapattern_front_420sp.yuv \
